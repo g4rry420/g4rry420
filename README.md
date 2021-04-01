@@ -16,11 +16,11 @@ I'm interested in _**Interactive Multimedia**_, _**Creative Coding**_, and _**Vi
 
 ### 🛠 Skillset
 
-My primary interest is in _**Web Development**_, and I've been writing web stack code since the last 4 years. I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `Angular`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Gulp`, `EJS`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`. I'm familiar with _REST_ and have experience with `GraphQL.js`. I've testing experience with `Jest` and `Mocha`.
+My primary interest is in _**Web Development**_, and I've been writing web stack code since the last 2 years. I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `ember`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Gulp`, `EJS`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`.On the database side, I have decent amount of knowledge in `Firebase`, `MySQL` and `MongoDB`. I'm familiar with _REST_ and have experience with `GraphQL.js`. I've testing experience with `Jest` and `Mocha`.
 
 ### 🔭 Working on ...
 
-I'm building [_**Music Blocks 2**_](https://github.com/sugarlabs/musicblocks-2), which is based on [_Music Blocks_](https://musicblocks.sugarlabs.org) — a _visual programming language_ used to create music. The goal is to take on the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a _**Physics World**_ simulating _Dynamics_, to aid high school students.
+I'm currently contributing in [_**Eventyay**_](https://github.com/fossasia/open-event-frontend/), which is a open source event scheduling platform by [_FOSSASIA_](https://github.com/fossasia) organization and also, I am contributing in [_**Grommet**_](https://github.com/grommet/grommet/) which is `React` based design system for the UI made using the Storybook. The goal is to take on the challenges encountered due to the original architecture, and build a more robust and reliable application, from the ground up. I also have plans to undertake the development of a _**Physics World**_ simulating _Dynamics_, to aid high school students.
 
 ### 📚 Learning ...
 

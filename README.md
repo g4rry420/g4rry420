@@ -8,11 +8,11 @@ I'm a enthusiatic developer. I'm 20 years old. I am a tech enthusiast and active
 
 ### 🛠 Skillset
 
-My primary interest is in _**Web Development**_, and I've been writing web stack code since the last 2 years. I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `ember`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Material-UI`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`.On the database side, I have decent amount of knowledge in `Firebase`, `MySQL`, `Postgresql` and `MongoDB`. I'm familiar with _REST_ and I've testing experience with `Jest` and `Mocha`.
+My primary interest is in _**Web Development**_, and I've been writing web stack code since the last 1.5 years. I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `ember`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Material-UI`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`.On the database side, I have decent amount of knowledge in `Firebase`, `MySQL`, `Postgresql` and `MongoDB`. I'm familiar with _REST_ and I've testing experience with `Jest` and `Mocha`.
 
 ### 🌱 Interests
 
-Apart from `Coding`, you can talk with me about _**airplanes**_, _**nba**_, _**gaming**_, and _**dogs**_. If you want to share your interests, I'be to happy to talk with you. Just ping me:blush:
+Apart from `Coding`, you can talk with me about _**airplanes**_:airplane:, _**nba**_:basketball:, _**paintings**_ and _**dogs**_:dog:. If you want to share your interests, I'be to happy to talk with you. Just ping me:blush:
 
 [//]: # (### 🔭 Working on ...)
 

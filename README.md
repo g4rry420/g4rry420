@@ -4,7 +4,7 @@
 
 ## I'm Gurkiran Singh
 
-I'm a enthusiatic developer and tech-savvy, actively remain on the watch for new tech products. I like _learning about how things work_ and am _fascinated about how computers work_.
+I'm a enthusiastic developer and tech-savvy, actively remain on the watch for new tech products. I like _learning about how things work_ and am _fascinated about how computers work_.
 
 ### 🛠 Skillset
 

@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/gksk/"><img align="right" src="./mypicture.jpg" height="164px"/></a>
+<!-- <a href="https://www.linkedin.com/in/gksk/"><img align="right" src="./mypicture.jpg" height="164px"/></a> -->
 
 # Hi there 👋🏼
 

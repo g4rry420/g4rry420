@@ -8,7 +8,7 @@ I'm a enthusiastic developer and tech-savvy, actively remain on the watch for ne
 
 ### 🛠 Skillset
 
-My primary interest is in _**Web Development**_, and I've been writing web stack code since the last 1.5 years. I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `ember`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Material-UI`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`.On the database side, I have decent amount of knowledge in `Firebase`, `MySQL`, `Postgresql` and `MongoDB`. I'm familiar with _REST_ and I've testing experience with `Jest` and `Mocha`.Moreover, I am also familar with cloud technologies, particularly AWS -  `Lambda`, `Amplify`, `S3`, `IAM` and `DynamoDb`.
+My primary interest is in _**Web Development**_, and I particularly love working on the _front-end_. I have good knowledge of `HTML`, `CSS`, and `JavaScript`, with further experience in `React` and some `ember`. Of late, I prefer using `TypeScript` over `JavaScript`. On the _front-end_, other technologies I've used are `JQuery`, `Bootstrap`, `Webpack`, `Material-UI`, `SCSS`, etc. On the _back-end_, I've some experience with `Node` (plus `Express`), and `PHP`.On the database side, I have decent amount of knowledge in `Firebase`, `MySQL`, `Postgresql` and `MongoDB`. I'm familiar with _REST_ and I've testing experience with `Jest` and `Mocha`.Moreover, I am also familar with cloud technologies, particularly AWS -  `Lambda`, `Amplify`, `S3`, `IAM` and `DynamoDb`.
 
 ### 🌱 Interests
 
